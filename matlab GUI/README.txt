@@ -1,11 +1,4 @@
-Group Number 28-Question number 7 -> M2 section
-Calculator for Free Vibration of a Fixed-Fixed Beam
-
-Rohit DS-181ME268
-Rakshith N-181ME263
-Dhruv H Kumar-181ME220
-Giridhar Ippili- 181ME225
-Maheshwar Oram-181ME245
+# fvd
 
 Instructions to run the code:
 
